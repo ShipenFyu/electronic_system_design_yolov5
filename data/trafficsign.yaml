@@ -1,0 +1,6 @@
+train: ../datasets/second/images # train images (relative to 'path') 2,021 images
+val: ../datasets/second/images # val images (relative to 'path') 2,021 images
+
+nc: 8
+# Classes
+names: ['000', '001', '010', '011', '100', '101', '110', '111']
