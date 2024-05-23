@@ -8,4 +8,11 @@ We deployed the model into Jetson Nano Developer Kit from NVIDIA, while using te
 
 We utilized some open source traffic signage datasets, including CCTSDB from Changsha University of Technology and TT100K from Tsinghua University and Tencent, then selected the required images from them. After training, the recognition accuracy for each sign are all above 0.85. 
 
-Any questions please email: shipingfuucas@gmail.com
+Any questions and discussions please email: shipingfuucas@gmail.com
+
+References:
+> https://github.com/ultralytics/yolov5
+> https://github.com/wang-xinyu/tensorrtx
+> https://github.com/csust7zhangjm/CCTSDB2021
+> https://github.com/asyncbridge/tsinghua-tencent-100k
+> https://blog.csdn.net/Mr_LanGX/article/details/128094428
