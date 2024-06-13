@@ -11,12 +11,12 @@ We utilized some open source traffic signage datasets, including CCTSDB from Cha
 Any questions and discussions please email: shipingfuucas@gmail.com
 
 References:
-> https://github.com/ultralytics/yolov5
+- https://github.com/ultralytics/yolov5
 
-> https://github.com/wang-xinyu/tensorrtx
+- https://github.com/wang-xinyu/tensorrtx
 
-> https://github.com/csust7zhangjm/CCTSDB2021
+- https://github.com/csust7zhangjm/CCTSDB2021
 
-> https://github.com/asyncbridge/tsinghua-tencent-100k
+- https://github.com/asyncbridge/tsinghua-tencent-100k
 
-> https://blog.csdn.net/Mr_LanGX/article/details/128094428
+- https://blog.csdn.net/Mr_LanGX/article/details/128094428
