@@ -1,6 +1,6 @@
 # A traffic sign recognition task based on Yolo version 5, for electronic system design course in UCAS
 -----
-Contributors: S. P. Fu, Y. F. Chen, T. Li, G. X. Yang, H. Y. Zhang.  
+Contributors: S Fu, Y Chen, T Li, G Yang, H Zhang.  
 -----
 This repository contains code for electronic system design course in the spring 2024 semester, UCAS. The code implements the recognition of eight traffic signs using YOLOv5 model to simulate Chinese motor vehicle driver's test subject 3. 
 
